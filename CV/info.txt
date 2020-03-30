@@ -1,0 +1,13 @@
+curso programacion web codigofacilito
+
+ip= internet protocol
+DNS
+Cache
+HTML=lenguaje de marcado de hipertexto (hipertexto por que no we sigue un flujo definido en la navegacion)
+<meta name="description" content=""> = hasta 160 caracteres
+<header>=siempre que exista un encabezado va este tag
+<section> = se debe usar ara cada seccion de la web
+font-weight:700; = negrita
+<ol><li></li></ol> = lista Ordenada (numeral consecutivo)
+<ul><li></li></ul> = listas desordenadas ( son los bullet)
+<dl><dt><dd></dd></dt></dl> = listas de definiciones, adentro se da el concepro y despues definición
